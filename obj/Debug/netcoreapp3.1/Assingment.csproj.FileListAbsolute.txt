@@ -1,0 +1,13 @@
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\obj\Debug\netcoreapp3.1\Assingment.csprojAssemblyReference.cache
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\obj\Debug\netcoreapp3.1\Assingment.AssemblyInfoInputs.cache
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\obj\Debug\netcoreapp3.1\Assingment.AssemblyInfo.cs
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\obj\Debug\netcoreapp3.1\Assingment.csproj.CoreCompileInputs.cache
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\bin\Debug\netcoreapp3.1\Assingment.exe
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\bin\Debug\netcoreapp3.1\Assingment.deps.json
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\bin\Debug\netcoreapp3.1\Assingment.runtimeconfig.json
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\bin\Debug\netcoreapp3.1\Assingment.runtimeconfig.dev.json
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\bin\Debug\netcoreapp3.1\Assingment.dll
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\bin\Debug\netcoreapp3.1\Assingment.pdb
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\obj\Debug\netcoreapp3.1\Assingment.dll
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\obj\Debug\netcoreapp3.1\Assingment.pdb
+C:\Users\Taei\OneDrive\QUT\Yr2\CAB201_Prgramming Principles\Visual Studio\Assessment\Assingment\Assingment\ConsoleApp1\obj\Debug\netcoreapp3.1\Assingment.genruntimeconfig.cache
